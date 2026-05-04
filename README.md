@@ -1,7 +1,7 @@
 # Smart-Parking-System-using-ESP-32
 IoT-based Smart Parking System using ESP32 with real-time slot detection and voice guidance.
 # Circuit Diagram
-![Circuit Diagram](Circuit Diagram.png)
+![Circuit Diagram](Circuit%20Diagram.png)
 # Project Demo Video
 [Watch Demo Video](https://drive.google.com/drive/folders/1PAK65SML2nUoAfc2vNeL1ipr_jRY6WbW?usp=drive_link)
 # Project Presentation 
