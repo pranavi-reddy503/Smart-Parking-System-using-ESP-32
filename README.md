@@ -14,13 +14,13 @@ An IoT-based Smart Parking System that detects real-time parking slot availabili
 
 # Project Demo Video
 
- [Watch Demo Video](https://drive.google.com/drive/folders/1PAK65SML2nUoAfc2vNeL1ipr_jRY6WbW?usp=drive_link)
+ [Watch Demo Video](https://drive.google.com/file/d/1RHBKpYqluEnfzzymsMyCJwDbKE8BfveS/view?usp=sharing)
 
 ---
 
 ## 📊 Project Presentation
 
- [View / Download PPT](https://drive.google.com/drive/folders/1PAK65SML2nUoAfc2vNeL1ipr_jRY6WbW?usp=drive_link)
+ [View / Download PPT](https://docs.google.com/presentation/d/1cCklLYKjjdL6Sl_t8lMI_sGvmKz4MCT1/edit?usp=drive_link&ouid=105477366807246064737&rtpof=true&sd=true)
 
 ---
 
